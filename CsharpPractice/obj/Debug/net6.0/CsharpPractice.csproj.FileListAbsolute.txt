@@ -1,0 +1,15 @@
+D:\MyLearning\CsharpPractice\CsharpPractice\bin\Debug\net6.0\CsharpPractice.exe
+D:\MyLearning\CsharpPractice\CsharpPractice\bin\Debug\net6.0\CsharpPractice.deps.json
+D:\MyLearning\CsharpPractice\CsharpPractice\bin\Debug\net6.0\CsharpPractice.runtimeconfig.json
+D:\MyLearning\CsharpPractice\CsharpPractice\bin\Debug\net6.0\CsharpPractice.dll
+D:\MyLearning\CsharpPractice\CsharpPractice\bin\Debug\net6.0\CsharpPractice.pdb
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.csproj.AssemblyReference.cache
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.AssemblyInfoInputs.cache
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.AssemblyInfo.cs
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.csproj.CoreCompileInputs.cache
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.dll
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\refint\CsharpPractice.dll
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.pdb
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\CsharpPractice.genruntimeconfig.cache
+D:\MyLearning\CsharpPractice\CsharpPractice\obj\Debug\net6.0\ref\CsharpPractice.dll
