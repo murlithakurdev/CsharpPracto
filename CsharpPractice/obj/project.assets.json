@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyLearning\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+      "projectUniqueName": "D:\\MyLearning\\CsharpPracto\\CsharpPractice\\CsharpPractice.csproj",
       "projectName": "CsharpPractice",
-      "projectPath": "D:\\MyLearning\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+      "projectPath": "D:\\MyLearning\\CsharpPracto\\CsharpPractice\\CsharpPractice.csproj",
       "packagesPath": "C:\\Users\\MurliManoharThakur\\.nuget\\packages\\",
-      "outputPath": "D:\\MyLearning\\CsharpPractice\\CsharpPractice\\obj\\",
+      "outputPath": "D:\\MyLearning\\CsharpPracto\\CsharpPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MurliManoharThakur\\AppData\\Roaming\\NuGet\\NuGet.Config",
